@@ -6,7 +6,7 @@ Our application will be a terminal themed chat application. Although it may not 
 to have our users send messages the hard way. The idea is there would be a set of commands that we implement and using these commands they can send messages,
 start video calls, and perform any other features that would be useful for a chat app. For example, say Alice and Bob want to have a conversation on our terminal
 themed chat app, Alice could send a message using a command like "send --user Bob -m "Hi Bob!". Bob on the other hand would have to use a command to read this 
-message from Alice say "read -u -Alice" in order to read the message that Alice sent him. Will this be profitable, probably not, but we do think 
+message from Alice say "read -u -Alice". Will this be profitable, probably not, but we do think 
 there is a lot to learn by implementing a chat application especially since we would try to implement some form of voice chat as well.
 
 ## What makes it different than a CRUD app? I.e., what functionality does it provide that is not just a user interface layer on top of a database of user information, and the ability to view / add to / change that information?
