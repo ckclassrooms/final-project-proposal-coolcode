@@ -3,6 +3,10 @@
 ## Deployed App
 https://dev-chat-ivory.vercel.app/
 
+## Link to Repository
+We didn't host with netlify but we created a seperate repo anyways :)...
+here is a link to it: https://github.com/jtamras/DevChat
+
 ## What does your application do?
 Our application will be a terminal themed chat application. Although it may not be useful to the general public, we thought it would be a cool idea
 to have our users send messages the hard way. The idea is there would be a set of commands that we implement and using these commands they can send messages,
