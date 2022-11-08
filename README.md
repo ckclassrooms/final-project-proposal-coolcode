@@ -1,5 +1,7 @@
 # final-project-proposal-coolcode
 
+## Deployed App
+https://dev-chat-ivory.vercel.app/
 
 ## What does your application do?
 Our application will be a terminal themed chat application. Although it may not be useful to the general public, we thought it would be a cool idea
