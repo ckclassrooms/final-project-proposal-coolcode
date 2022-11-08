@@ -4,8 +4,8 @@
 https://dev-chat-ivory.vercel.app/
 
 ## Link to Repository
-We didn't host with netlify but we created a seperate repo anyways :)...
-here is a link to it: https://github.com/jtamras/DevChat
+We didn't host with netlify but we created a seperate repo anyways...
+here is a link to it: https://github.com/jtamras/DevChat :)
 
 ## Tech Stack
 Next.js: Frontend/Serverless architecture
