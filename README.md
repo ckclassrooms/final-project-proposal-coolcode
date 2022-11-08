@@ -7,6 +7,19 @@ https://dev-chat-ivory.vercel.app/
 We didn't host with netlify but we created a seperate repo anyways :)...
 here is a link to it: https://github.com/jtamras/DevChat
 
+## Tech Stack
+Next.js: Frontend/Serverless architecture
+
+Firebase: NoSQL database which we feel will better for a chat application + authentication/authorization w/ GitHub OAuth
+
+3rd Party APIs:
+Realtime chat: [Ably](https://ably.com/blog/realtime-chat-app-nextjs-vercel)
+TBD: Many other APIs for enriching our message system...
+ie. we will include basic weather API funcitonality so that users can use the 'weather' command to send weather data easily
+
+## MVP for Nov. 13th
+The coolcode teams plans on having basic realtime chat working along with the terminal UI built out by this date. Basic commands for logging in, navigating the "terminal", and creating/deleting/modifying chat groups therefore must be completed by then. 
+
 ## What does your application do?
 Our application will be a terminal themed chat application. Although it may not be useful to the general public, we thought it would be a cool idea
 to have our users send messages the hard way. The idea is there would be a set of commands that we implement and using these commands they can send messages,
