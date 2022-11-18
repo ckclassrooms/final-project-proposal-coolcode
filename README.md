@@ -36,3 +36,6 @@ that we think will be non-trivial.
 ## What security and privacy concerns do you expect you (as developers) or your users to have with this application?
 Ensuring that messages are sent securely and to the correct users (confidentiality and integryity) will be important. Also, we want to ensure that 
 only users that have agreed to talk to each other can send messages to one another. For example, Alice must add Bob as a friend before he can send messages to her.
+
+## What does your app currently do?
+Our application currently allows several terminal commands on a terminal-like screen to be called and implements OAuth to be able to send messages. The user may then use the login command which uses OAuth, which then a chat window will pop out on the right and grants access to a chat in which they can send messages to and see the history of. The user can also use the commands 'clear', 'help', and 'logout' for their respective uses.
